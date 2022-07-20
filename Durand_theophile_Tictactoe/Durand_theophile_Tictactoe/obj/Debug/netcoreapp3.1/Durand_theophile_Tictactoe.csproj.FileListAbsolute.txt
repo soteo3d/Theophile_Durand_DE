@@ -1,0 +1,13 @@
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.exe
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.deps.json
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.runtimeconfig.json
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.runtimeconfig.dev.json
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.dll
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\bin\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.pdb
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.AssemblyInfoInputs.cache
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.AssemblyInfo.cs
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.dll
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.pdb
+C:\Users\soteo\source\repos\Durand_theophile_Tictactoe\Durand_theophile_Tictactoe\obj\Debug\netcoreapp3.1\Durand_theophile_Tictactoe.genruntimeconfig.cache
